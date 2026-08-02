@@ -34,7 +34,7 @@
 
 
 
-### 💰 &nbsp;Invitame un café
+### 💰 &nbsp;Si te gusta mi trabajo y querés darme una mano
 <a href="https://link.mercadopago.com.uy/hernanaguirredev">
   <img src="https://img.shields.io/badge/☕_Invitame_un_café-72c5b0?style=for-the-badge&logoColor=white" />
 </a>
