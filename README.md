@@ -1,6 +1,6 @@
-![Hernan banner](https://github.com/HernanAguirreDev/HernanAguirreDev/ghft.png)
+![Hernan banner](https://github.com/HernanAguirreDev/HernanAguirreDev/blob/main/ghft.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2> 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! Mi nombre es Hernán</h2> 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
