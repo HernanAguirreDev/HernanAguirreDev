@@ -36,7 +36,7 @@
 
 ### 💰 &nbsp;Si te gusta mi trabajo y querés darme una mano
 <a target="_blank" href="https://link.mercadopago.com.uy/hernanaguirredev">
-  <img src="https://img.shields.io/badge/☕_Invitame_un_café-72c5b0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/☕_Café_Para_Seguir_Codeando_-72c5b0?style=for-the-badge&logoColor=white" />
 </a>
 
 
