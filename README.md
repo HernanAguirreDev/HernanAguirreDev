@@ -28,7 +28,7 @@
 
 ### 🗃 &nbsp;Bases de datos
 
-[![DB](mysql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,linux,kali,bash,windows,md,py,figma,&perline=7)](https://skillicons.dev)
 
 
 ### 🧰 &nbsp;Control de versiones y herramientas 
