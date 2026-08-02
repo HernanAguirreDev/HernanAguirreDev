@@ -24,7 +24,7 @@
 
 ### 🛠 &nbsp;Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,linux,kali,bash,windows,md,py,figma,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,linux,kali,bash,windows,md,py,figma,&perline=7)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Bases de datos
 
@@ -34,21 +34,6 @@
 ### 🧰 &nbsp;Control de versiones y herramientas 
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,neovim,eclipse,netlify,obsidian&perline=5)](https://skillicons.dev)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
 
 ### 🎖 &nbsp;My Badges 
 
