@@ -39,7 +39,9 @@
 
 
 ### 💰 &nbsp;Invitame un café
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://link.mercadopago.com.uy/hernanaguirredev) 
+<a href="https://link.mercadopago.com.uy/hernanaguirredev">
+  <img src="https://img.shields.io/badge/☕_Invitame_un_café-72c5b0?style=for-the-badge&logoColor=white" />
+</a>
 
 
 ### 🤝🏻 &nbsp;Contactame
