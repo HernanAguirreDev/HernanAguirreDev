@@ -24,7 +24,7 @@
 
 ### 🛠 &nbsp;Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,mysql,linux,kali,bash,windows,md,py,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,mysql,linux,kali,bash,windows,md,py,figma&perline=10)](https://skillicons.dev)
 
 
 ### 🧰 &nbsp;Control de versiones y herramientas 
