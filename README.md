@@ -28,7 +28,7 @@
 
 ### 🗃 &nbsp;Bases de datos
 
-[![DB](mysql,mongodb&perline=5)](https://skillicons.dev)
+[![DB](mysql&perline=5)](https://skillicons.dev)
 
 
 ### 🧰 &nbsp;Control de versiones y herramientas 
